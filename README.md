@@ -8,12 +8,12 @@
 - 🌱 Currently exploring **EdTech**, **special applications for special individuals**, and **agentic AI**
 - 🤝 Open to collaborations and contributions
 
-## ✨ Current Focus
+## Current Focus
 - Developing **Calma AI** (saving up for a domain!)
 - Working on projects that empower learning and accessibility
 - Experimenting with creative, human-centered applications of AI
 
-## 🎶 Beyond Tech
+## Beyond Tech
 - I dance a lot 💃
 - I love singing, watching movies, and discussing big ideas about life, humanity, and innovation
 
@@ -21,7 +21,7 @@
 - Email: **maryannigweoruta@gmail.com**
 - LinkedIn: [maryann-igwe-oruta](https://www.linkedin.com/in/maryann-igwe-oruta-374309318) <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40" height="40" />
 
-## 🌟 Fun & Creative
+## Fun & Creative
 I like to keep things light and expressive.
 
 
