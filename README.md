@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
-## I'm Igwe-Oruta Maryann 
+### I'm Igwe-Oruta Maryann 
 **aka [mary1na-code](https://github.com/mary1na-code)**  
 ---
 ## About Me
